@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 60px 0px 60px;
+}
+.navimg img{
+    width: 40px;
+    height: 40px;
+}
+.navtext ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    font-weight: 700;
+}

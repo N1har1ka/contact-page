@@ -1,0 +1,8 @@
+.contactform{
+    margin: 50px 150px 0px 150px;
+}
+.contactbtn{
+    display: flex;
+    gap: 15px;
+    margin: 10px;
+}

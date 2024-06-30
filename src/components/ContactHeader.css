@@ -1,0 +1,14 @@
+:root{
+    --color:rgb(116, 111, 111);
+}
+.contactheader{
+    margin: 50px 150px 0px 150px;
+}
+.contactheader h1{
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 10px;
+}
+.contactheader p{
+    color: var(--color);
+}
