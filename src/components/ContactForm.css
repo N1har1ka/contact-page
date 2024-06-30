@@ -20,6 +20,9 @@
     padding: 0 8px;
     width: 460px;
 }
+.formctrl input:active{
+    background-color: white;
+}
 .formctrl label{
     position: relative;
     top: 8px;
