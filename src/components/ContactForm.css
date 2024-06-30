@@ -1,8 +1,51 @@
 .contactform{
-    margin: 50px 150px 0px 150px;
+    margin: 10px 150px 0px 150px;
+    display: flex;
 }
 .contactbtn{
     display: flex;
     gap: 15px;
     margin: 10px;
+}
+.formctrl{
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    padding: 0px 20px 0px 28px;
+}
+.formctrl input{
+    all: unset;
+    border: 1px solid black;
+    height: 30px;
+    padding: 0 8px;
+    width: 460px;
+}
+.formctrl label{
+    position: relative;
+    top: 8px;
+    left: 10px;
+    width: 40px;
+    text-align: center;
+    padding: 0px 8px 0px 8px;
+    background-color: white;
+}
+.formemail label{
+    width: 46px;
+    /* border: 1px solid black; */
+}
+.formctrl textarea{
+    all: unset;
+    border: 1px solid black;
+    padding: 0 8px;
+    width: 460px;
+}
+.submitbtn{
+    padding: 10px 0px 0px 45px;
+    width: 460px;
+    display: flex;
+    justify-content: end;
+}
+.contactimg img{
+    height: 400px;
+    width: 400px;
 }

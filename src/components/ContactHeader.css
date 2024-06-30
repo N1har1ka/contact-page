@@ -2,12 +2,11 @@
     --color:rgb(116, 111, 111);
 }
 .contactheader{
-    margin: 50px 150px 0px 150px;
+    margin: 15px 150px 0px 150px;
 }
 .contactheader h1{
-    font-size: 48px;
-    font-weight: 900;
-    margin-bottom: 10px;
+    font-size: 45px;
+    font-weight: 700;
 }
 .contactheader p{
     color: var(--color);
